@@ -1,0 +1,40 @@
+Daftar File Gambar Kebun Kita (letakkan di folder assets/images/):
+
+1. logo-polije.png
+   Posisi: Logo institusi Politeknik Negeri Jember di sebelah kiri navbar.
+
+2. hero-kebun-inovasi.jpg
+   Posisi: Gambar banner utama full-width pada bagian paling atas halaman (Hero Section).
+
+3. potret-kebun-1.jpg
+   Posisi: Galeri "Potret kebun" — Foto 1 (kiri atas).
+
+4. potret-kebun-2.jpg
+   Posisi: Galeri "Potret kebun" — Foto 2 (kanan atas).
+
+5. potret-kebun-3.jpg
+   Posisi: Galeri "Potret kebun" — Foto 3 (kiri bawah).
+
+6. potret-kebun-4.jpg
+   Posisi: Galeri "Potret kebun" — Foto 4 (kanan bawah).
+
+7. tentang-kebun-inovasi.jpg
+   Posisi: Section "Tentang TEFA Kebun Inovasi" — Kartu foto sebelah kanan.
+
+8. cerita-kegiatan-budidaya.jpg
+   Posisi: Section "Cerita dari kebun" — Baris 1, Foto 1 (kiri).
+
+9. cerita-pembelajaran-kebun.jpg
+   Posisi: Section "Cerita dari kebun" — Baris 1, Foto 2 (tengah).
+
+10. cerita-hasil-panen.jpg
+    Posisi: Section "Cerita dari kebun" — Baris 1, Foto 3 (kanan).
+
+11. cerita-kunjungan-edukasi.jpg
+    Posisi: Section "Cerita dari kebun" — Baris 2, Foto 1 (kiri).
+
+12. cerita-kegiatan-lapangan.jpg
+    Posisi: Section "Cerita dari kebun" — Baris 2, Foto 2 (tengah).
+
+13. cerita-perawatan-tanaman.jpg
+    Posisi: Section "Cerita dari kebun" — Baris 2, Foto 3 (kanan).
